@@ -2,7 +2,7 @@
 
 Innovative with the tendency to think outside of the box and thrive for excellence. Relentless when challenged, never gives up until an efficient, secure and yet simple enough solution is found.
 
-For over 8 years my passion has been creating software applications for small to enterprise-sized companies.
+For over 5 years my passion has been creating software applications for small to enterprise-sized companies.
 
 I've been honored to have participated in several successful projects as a .NET Developer. I've been fortunate enough to work with the best developers in my country. 
 I have a great passion for writing clean and testable codes. I have a special passion for trying to find the best ways to solve my problems in the projects.
