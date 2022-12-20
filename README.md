@@ -7,7 +7,7 @@ For over 5 years my passion has been creating software applications for small to
 I've been honored to have participated in several successful projects as a .NET Developer. I've been fortunate enough to work with the best developers in my country. 
 I have a great passion for writing clean and testable codes. I have a special passion for trying to find the best ways to solve my problems in the projects.
 
-Currently, I'm developing a social network project for a German startup, It's based on .net core and microservice, also it's based on a unique idea, It has been completed and has entered the testing and debugging phase. So I'm looking for a new job as a Back-end .NET Developer with visa sponsorship.
+Currently, I'm developing a social network project for a German startup, It's based on .net core and microservice, also it's based on a unique idea, It has been completed and It's in the last phase of development. So I'm looking for a new job as a Back-end .NET Developer with visa sponsorship and relocation.
 
 Most of my ability to write code comes from my work with some of the best software development companies. I've had the privilege of coding with the best programming teams and gaining different knowledge for writing applications. I've used this distinction to deliver consistent positive results and help companies continually grow and develop.
 
@@ -20,7 +20,7 @@ The list of technologies and services I could help with:
 The list of technologies and services I could help with:
 
 
-🔭 I’m currently working on a microservice project.
+🔭 I’m currently working on a microservice project based on .Net Core.
 
 🌱 I’m currently learning Microsoft Azure
 
@@ -30,7 +30,6 @@ The list of technologies and services I could help with:
 
 📫 How to reach me: LinkedIn and Email
 
-⚡ Fun fact: If I go back, I will still choose software developing as my career path.
 
 My interest ❤️
 
