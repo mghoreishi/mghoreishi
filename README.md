@@ -2,12 +2,14 @@
 
 Innovative with the tendency to think outside of the box and thrive for excellence. Relentless when challenged, never gives up until an efficient, secure and yet simple enough solution is found.
 
-For over 5 years my passion has been creating software applications for small to enterprise-sized companies.
+For over 8 years my passion has been creating software applications for small to enterprise-sized companies.
 
-I've been honored to have participated in several successful projects as a .NET Developer. I've been fortunate enough to work with the best developers in my country. 
+I've been honored to have participated in several successful projects as a .NET Developer. I've been fortunate enough to work with the best developers. 
 I have a great passion for writing clean and testable codes. I have a special passion for trying to find the best ways to solve my problems in the projects.
 
-Currently, I'm developing a social network project for a German startup, It's based on .net core and microservice, also it's based on a unique idea, It has been completed and It's in the last phase of development. So I'm looking for a new job as a Back-end .NET Developer with visa sponsorship and relocation.
+Currently, I'm developing a comprehensive cloud-based travel ERP system on Microsoft Azure to automate group operations, itineraries, contracts, and finances, significantly boosting efficiency and simplifying workflows for a leading B2B tour operator in Northern Europe.
+
+In my privous job, I've developed a social network project for a Dutch startup, It's based on .net core and microservice, also it's based on a unique idea, It has been completed and published in Google Play and App Store.
 
 Most of my ability to write code comes from my work with some of the best software development companies. I've had the privilege of coding with the best programming teams and gaining different knowledge for writing applications. I've used this distinction to deliver consistent positive results and help companies continually grow and develop.
 
@@ -20,13 +22,13 @@ The list of technologies and services I could help with:
 The list of technologies and services I could help with:
 
 
-🔭 I’m currently working on a microservice project based on .Net Core.
+🔭 I’m currently working on a cloud-based travel ERP system on Microsoft Azure based on .Net Core.
 
-🌱 I’m currently learning Microsoft Azure
+🌱 I’m currently learning Microsoft Azure and Azure AI.
 
 👯 I’m looking to collaborate on: .NET projects
 
-💬 Ask me about: .NET, Clean Architecture, Microservices, DDD, CQRS
+💬 Ask me about: .NET, Clean Architecture, Microservices, DDD, CQRS and Azure
 
 📫 How to reach me: LinkedIn and Email
 
