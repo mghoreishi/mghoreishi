@@ -1,17 +1,16 @@
 ### Hi, I'm Maryam Ghoreishi 👋
 
-Innovative with the tendency to think outside of the box and thrive for excellence. Relentless when challenged, never gives up until an efficient, secure and yet simple enough solution is found.
+Innovative, with a tendency to think outside the box and strive for excellence. Relentless when challenged—never gives up until an efficient, secure, yet simple solution is found.
 
-For over 8 years my passion has been creating software applications for small to enterprise-sized companies.
+For over eight years, my passion has been creating software applications for small to enterprise-sized companies.
 
-I've been honored to have participated in several successful projects as a .NET Developer. I've been fortunate enough to work with the best developers. 
-I have a great passion for writing clean and testable codes. I have a special passion for trying to find the best ways to solve my problems in the projects.
+I've been honored to participate in several successful projects as a .NET Developer and fortunate to work with some of the best developers. I have a strong passion for writing clean, testable code and continuously seeking the best ways to solve project challenges.
 
-Currently, I'm developing a comprehensive cloud-based travel ERP system on Microsoft Azure to automate group operations, itineraries, contracts, and finances, significantly boosting efficiency and simplifying workflows for a leading B2B tour operator in Northern Europe.
+Currently, I am developing a comprehensive cloud-based travel ERP system on Microsoft Azure to automate group operations, itineraries, contracts, and finances—significantly boosting efficiency and simplifying workflows for a leading B2B tour operator in Northern Europe.
 
-In my privous job, I've developed a social network project for a Dutch startup, It's based on .net core and microservice, also it's based on a unique idea, It has been completed and published in Google Play and App Store.
+In my previous job, I developed a social network project for a Dutch startup. It was built using .NET Core and a microservices architecture, based on a unique concept. The project was successfully completed and published on Google Play and the App Store.
 
-Most of my ability to write code comes from my work with some of the best software development companies. I've had the privilege of coding with the best programming teams and gaining different knowledge for writing applications. I've used this distinction to deliver consistent positive results and help companies continually grow and develop.
+Much of my coding ability comes from working with top software development companies. I have had the privilege of coding alongside some of the best programming teams, gaining diverse knowledge in application development. I've used this experience to consistently deliver positive results and contribute to companies' growth and innovation.
 
 
 The list of technologies and services I could help with:
